@@ -1,0 +1,281 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-family: Bungee;
+    
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #3C3C3C;
+}
+
+.nav ul {
+    margin: 0;
+}
+
+.nav li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.nav a {
+    display: inline-block;
+    padding: .5em;
+    text-decoration: none;
+    color: #D64CEE;
+}
+
+.main-nav {
+    text-align: right;
+    font-size: 1.5em;
+}
+
+.main-nav li {
+    padding: 0 0em;
+}
+
+.main-header {
+display: flex;
+justify-content: space-between;
+align-items: baseline;
+font-size: 1em;
+  background-color: #ffffff;
+  color: #D64CEE;
+  padding: 1rem;
+}
+
+.top-manga-large {
+    text-align: left;
+    padding: 0 0em;
+}
+
+.top-manga {
+    font-size: 2em;
+    text-align: left;
+    left: 10%;
+    padding: 0 2em;
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+
+.container {
+    position: relative;
+    top: 50%;
+    text-align: center;
+    padding: 0%;
+    margin: 0%;
+}
+
+.container img {
+    width: 100%;
+    height: auto;
+}
+
+.container2 {
+    position: relative;
+    text-align: center;
+    width: 100%;
+    height: 750px;
+    margin: 0%;
+    transform: translate( 10%, 0%);
+    
+}
+    
+
+.container3 {
+    position: relative;
+    text-align: center;
+    width: 100%;
+    height: 750px;
+    margin: 0%;
+    transform: translate( 10%, 0%);
+}
+
+.container4 {
+    position: relative;
+    text-align: left;
+    width: 100%;
+    height: 650px;
+    padding: 0%;
+    margin: 0%;
+    
+}
+
+.container5 {
+    position: relative;
+    text-align: left;
+    background-color: #000000;
+    width: 100%;
+    height: 220px;
+    padding: 0%;
+    margin: 0%;
+}
+
+.links a {
+    color: #ffffff;
+    text-decoration: none;
+    
+}
+
+li::marker {
+    color: #ffffff;
+}
+
+.footer {
+    color: #ffffff;
+    text-align: right;
+    padding: 1rem;
+}
+
+.socials {
+
+    transform: translate(-50%, -50%);
+    font-size: 1.5em;
+    text-decoration: none;
+    justify-content: space-between;
+    display: inline-flex;
+    align-items: baseline;
+    list-style: none;
+    margin-right: -150px;
+    
+}
+.socials li {
+    position: relative;
+    top: 50%;
+    display: inline;
+    margin-right: 10px;
+    margin-bottom: 50px;
+}
+.socials a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.create {
+    position: absolute;
+    text-align: left;
+
+}
+
+.bot-top {
+    font-size: 2em;
+    position: absolute;
+    top: 5%;
+    left: 20%;
+    display: inline;
+}
+
+.first5 {
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    font-size: 1.75em;
+    padding: 0px;
+    line-height: 2.5;
+    text-decoration: none;
+    display: inline;
+}
+
+.second5 {
+    position: absolute;
+    top: 25%;
+    left: 65%;
+    font-size: 1.75em;
+    line-height: 2.5;
+    padding: 0 0em;
+    display: inline;
+    line-height: 2.5;
+    text-decoration: none;
+}
+
+.jaylen {
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    height: 500px;
+    font-size: 1.5em;
+    color: #ffffff;
+}
+
+.me {
+    border-radius: 25px;
+}
+
+.jaylen-passage {
+    position: absolute;
+    text-align: left;
+    top: 50%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    font-size: 1.5em;
+    margin-left: 0px;
+    margin-right: 1000px;
+    padding: 0px;
+    color: #ffffff;
+}
+
+.whatispassage {
+    position: absolute;
+    text-align: left;
+    top: 50%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    font-size: 1.5em;
+    margin-left: 0px;
+    margin-right: 1000px;
+    padding: 0px;
+    color: #ffffff;
+}
+
+.image-passage {
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    height: 500px;
+    color: #ffffff;
+    font-size: 1.5em;
+}
+
+.vinland {
+    border-radius: 25px;
+}
+
+.head2 {
+    color:#D64CEE
+}
+
+.head3 {
+    color:#E692F5
+}
+
+.centered-left {
+    position: absolute;
+    top: 40%;
+    left: 0%;
+    transform: translate( 10%, 0%);
+    font-size: 2em;
+}
+
+.centered-right {
+    position: absolute;
+    top: 45%;
+    left: 85%;
+    transform: translate( 10%, 0%);
+    font-size: 2em;
+}
+
+.centered {
+    position: absolute;
+    top: 40%;
+    left: 45%;
+    transform: translate( 10%, 0%);
+    font-size: 2em;
+}
+
