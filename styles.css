@@ -215,6 +215,8 @@ li::marker {
     font-size: 1.5em;
     margin-left: 0px;
     margin-right: 1000px;
+    margin-top: 10px;
+    margin-bottom: 500px;
     padding: 0px;
     color: #ffffff;
 }
@@ -228,6 +230,8 @@ li::marker {
     font-size: 1.5em;
     margin-left: 0px;
     margin-right: 1000px;
+    margin-top: 10px;
+    margin-bottom: 500px;
     padding: 0px;
     color: #ffffff;
 }
