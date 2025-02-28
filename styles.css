@@ -161,7 +161,7 @@ li::marker {
 }
 
 .bot-top {
-    font-size: 2em;
+    font-size: 1.25vw;
     position: absolute;
     top: 5%;
     left: 20%;
@@ -172,7 +172,7 @@ li::marker {
     position: absolute;
     top: 25%;
     left: 25%;
-    font-size: 1.75em;
+    font-size: 1vw;
     padding: 0px;
     line-height: 2.5;
     text-decoration: none;
@@ -183,7 +183,7 @@ li::marker {
     position: absolute;
     top: 25%;
     left: 65%;
-    font-size: 1.75em;
+    font-size: 1vw;
     line-height: 2.5;
     padding: 0 0em;
     display: inline;
@@ -212,7 +212,7 @@ li::marker {
     top: 50%;
     left: 20%;
     transform: translate(-50%, -50%);
-    font-size: 1.5em;
+    font-size: 1.25vw;
     margin-left: 0px;
     margin-right: 1000px;
     padding: 0px;
@@ -225,7 +225,7 @@ li::marker {
     top: 50%;
     left: 20%;
     transform: translate(-50%, -50%);
-    font-size: 1.5em;
+    font-size: 1.25vw;
     margin-left: 0px;
     margin-right: 1000px;
     padding: 0px;
@@ -260,7 +260,7 @@ li::marker {
     top: 40%;
     left: 0%;
     transform: translate( 10%, 0%);
-    font-size: 2em;
+    font-size: 1.5vw;
 }
 
 .centered-right {
@@ -268,14 +268,15 @@ li::marker {
     top: 45%;
     left: 85%;
     transform: translate( 10%, 0%);
-    font-size: 2em;
+    font-size: 1.5vw;
 }
 
 .centered {
     position: absolute;
     top: 40%;
-    left: 45%;
+    left: 43%;
     transform: translate( 10%, 0%);
-    font-size: 2em;
+    font-size: 1.5vw;
+
 }
 
