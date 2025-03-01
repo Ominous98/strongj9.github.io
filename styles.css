@@ -161,7 +161,7 @@ li::marker {
 }
 
 .bot-top {
-    font-size: 1.25vw;
+    font-size: 1.75vw;
     position: absolute;
     top: 5%;
     left: 20%;
@@ -172,7 +172,7 @@ li::marker {
     position: absolute;
     top: 25%;
     left: 25%;
-    font-size: 1vw;
+    font-size: 1.5vw;
     padding: 0px;
     line-height: 2.5;
     text-decoration: none;
@@ -183,7 +183,7 @@ li::marker {
     position: absolute;
     top: 25%;
     left: 65%;
-    font-size: 1vw;
+    font-size: 1.5vw;
     line-height: 2.5;
     padding: 0 0em;
     display: inline;
