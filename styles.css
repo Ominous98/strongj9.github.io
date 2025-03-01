@@ -80,9 +80,9 @@ font-size: 1vw;
     text-align: left;
     width: 90%;
     height: 750px;
-    transform: translate( 10%, 0%);
     margin: 0%;
     padding: 0%;
+    transform: translate( 10%, 0%);
     
 }
     
@@ -229,11 +229,9 @@ li::marker {
     left: 25%;
     transform: translate(-50%, -50%);
     font-size: 1.25vw;
-    margin-left: 50px;
+    margin-left: 0px;
     margin-right: 1000px;
     padding: 0px;
-    width: 1000px;
-    height: 750px;
     color: #ffffff;
 }
 
@@ -248,8 +246,6 @@ li::marker {
     height: 500px;
     
 }
-
-
 
 .vinland {
     border-radius: 25px;
