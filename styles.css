@@ -220,7 +220,7 @@ li::marker {
 }
 
 .whatispassage {
-    position: absolute;
+    position: relative;
     text-align: left;
     top: 50%;
     left: 5%;
